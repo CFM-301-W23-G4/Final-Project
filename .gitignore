@@ -7,3 +7,4 @@ __pycache__/
 .DS_Store
 merged_df.sas7bdat
 first_stage_df.csv
+sec-filings.sas7bdat
