@@ -9,3 +9,6 @@ merged_df.sas7bdat
 first_stage_df.csv
 sec-filings.sas7bdat
 sec_filing_analysis_wrds.sas7bdat
+data.zip
+all_monthly_data_final.csv
+linear_predict_betas.csv
